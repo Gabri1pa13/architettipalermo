@@ -25,7 +25,7 @@
     <meta content="Architetti Palermo | Studio4E (Sicilia)" name="twitter:title"/>
     <meta content="https://architettipalermo.com/assets/images/villa-moderna-con-spazi-verdi.jpg" property="og:image"/>
 
-    <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Architect", "name": "Studio 4e", "url": "https://www.studio4e.it/", "image": "https://www.studio4e.it/", "telephone": ["+39 347 973 6697", "+39 347 598 7285"], "email": "info@studio4e.it", "address": {"@type": "PostalAddress", "streetAddress": "Piazza Sant'Oliva 19", "addressLocality": "Palermo", "postalCode": "90141", "addressCountry": "IT"}, "areaServed": ["Palermo", "Sicilia"], "sameAs": ["https://www.studio4e.it/studio", "https://www.studio4e.it/progetti", "https://www.studio4e.it/contatti"]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Architect","name":"Studio 4e","url":"https://www.studio4e.it/","image":"https://architettipalermo.com/assets/images/villa-moderna-con-spazi-verdi.jpg","telephone":["+39 347 973 6697","+39 347 598 7285"],"email":"info@studio4e.it","address":{"@type":"PostalAddress","streetAddress":"Piazza Sant'Oliva 19","addressLocality":"Palermo","postalCode":"90141","addressCountry":"IT"},"areaServed":["Palermo","Sicilia"],"sameAs":["https://www.studio4e.it/studio","https://www.studio4e.it/progetti","https://www.studio4e.it/contatti"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://architettipalermo.com/"}]}]}</script>
 
     <style>
         :root {
@@ -221,6 +221,9 @@
         }
         @media(min-width: 768px) { .burger { display: none; } }
     </style>
+<!-- Google Analytics 4 — Replace G-XXXXXXXXXX with your actual Measurement ID -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','G-XXXXXXXXXX');</script>
 </head>
 
 <body>
@@ -337,22 +340,40 @@
                 
                 <div class="gallery">
                     <a class="g" href="https://www.studio4e.it" target="_blank">
-                        <img alt="Villa moderna Sicilia" loading="lazy" src="assets/images/villa-moderna-con-spazi-verdi.jpg"/>
+                        <picture>
+                            <source srcset="assets/images/villa-moderna-con-spazi-verdi.webp" type="image/webp"/>
+                            <img alt="Villa moderna con spazi verdi in Sicilia - progetto Studio4E" loading="lazy" width="600" height="400" src="assets/images/villa-moderna-con-spazi-verdi.jpg"/>
+                        </picture>
                     </a>
                     <a class="g" href="https://www.studio4e.it" target="_blank">
-                        <img alt="Villa sul mare" loading="lazy" src="assets/images/villasulmare.jpg"/>
+                        <picture>
+                            <source srcset="assets/images/villasulmare.webp" type="image/webp"/>
+                            <img alt="Villa sul mare in Sicilia - ristrutturazione Studio4E" loading="lazy" width="600" height="400" src="assets/images/villasulmare.jpg"/>
+                        </picture>
                     </a>
                     <a class="g" href="https://www.studio4e.it" target="_blank">
-                        <img alt="Interior design villa" loading="lazy" src="assets/images/interni-villa-di-sera.jpg"/>
+                        <picture>
+                            <source srcset="assets/images/interni-villa-di-sera.webp" type="image/webp"/>
+                            <img alt="Interior design villa di sera a Palermo - Studio4E" loading="lazy" width="600" height="400" src="assets/images/interni-villa-di-sera.jpg"/>
+                        </picture>
                     </a>
                     <a class="g" href="https://www.studio4e.it" target="_blank">
-                        <img alt="Wine Cellar Sicilia" loading="lazy" src="assets/images/wine-cellar-sicilia.jpg"/>
+                        <picture>
+                            <source srcset="assets/images/wine-cellar-sicilia.webp" type="image/webp"/>
+                            <img alt="Wine cellar design in Sicilia - progetto Studio4E" loading="lazy" width="600" height="400" src="assets/images/wine-cellar-sicilia.jpg"/>
+                        </picture>
                     </a>
                     <a class="g" href="https://www.studio4e.it" target="_blank">
-                        <img alt="Ristorante Sushi Palermo" loading="lazy" src="assets/images/ristorante-sushi-palermo.jpg"/>
+                        <picture>
+                            <source srcset="assets/images/ristorante-sushi-palermo.webp" type="image/webp"/>
+                            <img alt="Progetto ristorante sushi a Palermo - Studio4E" loading="lazy" width="600" height="400" src="assets/images/ristorante-sushi-palermo.jpg"/>
+                        </picture>
                     </a>
                     <a class="g" href="https://www.studio4e.it" target="_blank">
-                        <img alt="Ufficio Studio 4e" loading="lazy" src="assets/images/ufficio-studio4e-palermo-centro-piazza-santoliva-19.jpg"/>
+                        <picture>
+                            <source srcset="assets/images/ufficio-studio4e-palermo-centro-piazza-santoliva-19.webp" type="image/webp"/>
+                            <img alt="Ufficio Studio4E in Piazza Sant'Oliva Palermo" loading="lazy" width="600" height="400" src="assets/images/ufficio-studio4e-palermo-centro-piazza-santoliva-19.jpg"/>
+                        </picture>
                     </a>
                 </div>
             </div>
