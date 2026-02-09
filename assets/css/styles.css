@@ -455,6 +455,13 @@ body{padding-bottom:140px}
   .wa-fab{left:14px; right:14px; justify-content:center}
 }
 
+/* Cross-site network */
+.footer-network{margin-top:28px;border-top:1px solid rgba(0,0,0,.06);padding-top:20px}
+.footer-network h4{font-size:13px;color:var(--muted);text-transform:uppercase;letter-spacing:.1em;margin:0 0 12px}
+.footer-network-links{display:flex;flex-wrap:wrap;gap:10px}
+.footer-network-links a{font-size:12.5px;color:var(--muted);padding:8px 14px;border-radius:999px;border:1px solid rgba(0,0,0,.06);background:#fff;transition:border-color .2s ease,color .2s ease}
+.footer-network-links a:hover{color:var(--brand);border-color:rgba(184,40,120,.22)}
+
 /* Reduced motion */
 @media (prefers-reduced-motion: reduce){
   html{scroll-behavior:auto}
