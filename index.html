@@ -202,6 +202,12 @@
             background: #eef2ff; color: #4f46e5; width: fit-content;
             font-size: 0.75rem; padding: 2px 8px; border-radius: 4px; margin-bottom: 10px;
         }
+
+        .network-portals { border-top: 1px solid rgba(0,0,0,.08); }
+        .network-portals .lead { max-width: 760px; color: var(--text-light); margin-top: -20px; margin-bottom: 28px; }
+        .network-portals .portal-card { color: var(--text); display: block; }
+        .network-portals .portal-card strong { display: block; color: var(--primary); margin-bottom: 8px; font-size: 1.05rem; }
+        .network-portals .portal-card p { margin: 0; }
         
         /* Footer */
         .footer { background: #f9f9f9; padding: 60px 0 20px; border-top: 1px solid var(--border); font-size: 0.9rem; }
@@ -230,7 +236,7 @@
         }
         @media(min-width: 768px) { .burger { display: none; } }
     </style>
-</head>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Studio 4e", "url": "https://www.studio4e.it/", "sameAs": ["https://architettisicilia.it", "https://architettitrapani.com", "https://architetticatania.it", "https://architettitaormina.it"]}</script></head>
 
 <body>
     <a href="#main-content" class="skip-link">Vai al contenuto principale</a>
@@ -416,6 +422,31 @@
                 </div>
             </div>
         </section>
+
+        <section class="section network-portals">
+            <div class="container">
+                <h2>I portali territoriali di Studio 4e</h2>
+                <p class="lead">Studio 4e gestisce portali dedicati alle aree in cui opera. Ogni sito offre guide tecniche e servizi specifici per il territorio.</p>
+                <div class="cards">
+                    <a class="card portal-card" href="https://architettisicilia.it">
+                        <strong>Architetti Sicilia</strong>
+                        <p>Portale regionale con guide tecniche su pratiche edilizie e ristrutturazioni in tutte le province siciliane.</p>
+                    </a>
+                    <a class="card portal-card" href="https://architetticatania.it">
+                        <strong>Architetti Catania</strong>
+                        <p>Architettura di lusso, sicurezza sismica e investimenti immobiliari nell'area etnea.</p>
+                    </a>
+                    <a class="card portal-card" href="https://architettitrapani.com">
+                        <strong>Architetti Trapani</strong>
+                        <p>Design contemporaneo, ville e restauro nell'area della Sicilia occidentale.</p>
+                    </a>
+                    <a class="card portal-card" href="https://architettitaormina.it">
+                        <strong>Architetti Taormina</strong>
+                        <p>Hospitality, luxury villas e vincoli paesaggistici tra Taormina e Messina.</p>
+                    </a>
+                </div>
+            </div>
+        </section>
     </main>
 
     <footer class="footer">
@@ -442,19 +473,20 @@
                 </a>
             </div>
         </div>
-        <div class="container footer-network">
-            <h4>Studio 4e in Sicilia</h4>
-            <div class="footer-network-links">
-                <a href="https://architettisicilia.it" target="_blank" rel="noopener">Architetti Sicilia</a>
-                <a href="https://architetticatania.it" target="_blank" rel="noopener">Architetti Catania</a>
-                <a href="https://architettitrapani.com" target="_blank" rel="noopener">Architetti Trapani</a>
-                <a href="https://architettitaormina.it" target="_blank" rel="noopener">Architetti Taormina</a>
-            </div>
-        </div>
         <div class="container" style="margin-top:40px; border-top:1px solid #eee; padding-top:20px; font-size:0.8rem; color:#888;">
             © 2026 Studio 4e. Tutti i diritti riservati. P.IVA e dati fiscali disponibili sul sito ufficiale.
         </div>
-    </footer>
+    <div class="container">
+<div style="margin-top:10px; padding-top:10px; border-top:1px solid rgba(0,0,0,.06); font-size:12px">
+Studio 4e in Sicilia: 
+<a href="https://architettisicilia.it">Architetti Sicilia</a> · 
+<a href="/">Architetti Palermo</a> · 
+<a href="https://architetticatania.it">Architetti Catania</a> · 
+<a href="https://architettitrapani.com">Architetti Trapani</a> · 
+<a href="https://architettitaormina.it">Architetti Taormina</a>
+</div>
+</div>
+</footer>
 
     <script defer="" src="assets/js/main.js"></script>
 </body>
