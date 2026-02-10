@@ -18,7 +18,9 @@
     
     <title>Architetti Palermo | Studio4E (Sicilia)</title>
     <meta content="Architetti a Palermo e in Sicilia: ristrutturazioni, interni, pratiche edilizie. Guide e contatto rapido con Studio4E." name="description"/>
-    <meta content="#7a1d52" name="theme-color"/> <link href="https://fonts.googleapis.com" rel="preconnect"/>
+    <meta content="#7a1d52" name="theme-color"/>
+    <link href="assets/css/styles.css" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com" rel="preconnect"/>
     <link crossorigin="" href="https://fonts.gstatic.com" rel="preconnect"/>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
     <link href="assets/images/favicon.png" rel="icon" type="image/png"/>
@@ -34,208 +36,10 @@
     <meta content="Architetti Palermo | Studio4E (Sicilia)" name="twitter:title"/>
     <meta content="https://architettipalermo.com/assets/images/villa-moderna-con-spazi-verdi.jpg" property="og:image"/>
 
-    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Architect","name":"Studio 4e","url":"https://www.studio4e.it/","image":"https://architettipalermo.com/assets/images/villa-moderna-con-spazi-verdi.jpg","telephone":["+39 347 973 6697","+39 347 598 7285"],"email":"info@studio4e.it","address":{"@type":"PostalAddress","streetAddress":"Piazza Sant'Oliva 19","addressLocality":"Palermo","postalCode":"90141","addressCountry":"IT"},"areaServed":["Palermo","Sicilia"],"sameAs":["https://www.studio4e.it/studio","https://www.studio4e.it/progetti","https://www.studio4e.it/contatti"]},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://architettipalermo.com/"}]}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Architect","name":"Studio 4e","url":"https://www.studio4e.it/","image":"https://architettipalermo.com/assets/images/villa-moderna-con-spazi-verdi.jpg","telephone":["+39 347 973 6697","+39 347 598 7285"],"email":"info@studio4e.it","address":{"@type":"PostalAddress","streetAddress":"Piazza Sant'Oliva 19","addressLocality":"Palermo","postalCode":"90141","addressCountry":"IT"},"areaServed":["Palermo","Sicilia"],"sameAs":["https://www.studio4e.it/studio","https://www.studio4e.it/progetti","https://www.studio4e.it/contatti"],"aggregateRating":{"@type":"AggregateRating","ratingValue":"5","reviewCount":"11","bestRating":"5","worstRating":"1"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://architettipalermo.com/"}]}]}</script>
 
-    <style>
-        :root {
-            --primary: #7a1d52; /* Studio 4e Brand Color */
-            --primary-dark: #5a153b;
-            --text: #333333;
-            --text-light: #666666;
-            --bg: #ffffff;
-            --bg-alt: #f8f9fa;
-            --border: #e0e0e0;
-            --radius: 8px;
-            --shadow: 0 4px 20px rgba(0,0,0,0.06);
-            --container: 1100px;
-        }
+    <script type="application/ld+json">{"@context":"https://schema.org","@type":"Review","itemReviewed":{"@type":"Architect","name":"Studio 4e"},"author":{"@type":"Person","name":"Cliente Houzz"},"reviewRating":{"@type":"Rating","ratingValue":"5","bestRating":"5"},"reviewBody":"Professionisti di alto livello, attenti alle singole esigenze, ma allo stesso tempo propositivi e creativi. Consigliati!"}</script>
 
-        * { box-sizing: border-box; }
-        
-        body {
-            font-family: 'Montserrat', sans-serif;
-            color: var(--text);
-            line-height: 1.6;
-            margin: 0;
-            background-color: var(--bg);
-        }
-
-        a { text-decoration: none; color: inherit; transition: color 0.2s; }
-        
-        /* Container & Layout */
-        .container {
-            max-width: var(--container);
-            margin: 0 auto;
-            padding: 0 20px;
-        }
-
-        /* Accessibilità */
-        .skip-link {
-            position: absolute; left: -9999px; top: auto;
-            width: 1px; height: 1px; overflow: hidden;
-        }
-        .skip-link:focus {
-            position: fixed; top: 0; left: 0;
-            width: auto; height: auto;
-            padding: 10px; background: white; z-index: 9999;
-        }
-
-        /* Header */
-        .header {
-            background: rgba(255,255,255,0.98);
-            border-bottom: 1px solid var(--border);
-            position: sticky; top: 0; z-index: 1000;
-            backdrop-filter: blur(10px);
-        }
-        .header-row {
-            display: flex; justify-content: space-between; align-items: center;
-            height: 70px;
-        }
-        .brand {
-            display: flex; align-items: center; gap: 12px;
-            font-weight: 700; color: var(--primary);
-        }
-        .logo-img { height: 40px; width: auto; }
-        .brand-title { font-size: 1.1rem; line-height: 1.1; }
-        .brand-sub { font-size: 0.8rem; font-weight: 400; color: var(--text-light); }
-        
-        .nav { display: none; gap: 24px; align-items: center; font-size: 0.95rem; font-weight: 500; }
-        @media(min-width: 768px) { .nav { display: flex; } .burger { display: none; } }
-        
-        .nav a:hover { color: var(--primary); }
-        .nav-pill {
-            background: var(--primary); color: white !important;
-            padding: 8px 16px; border-radius: 50px;
-            font-size: 0.9rem;
-        }
-        .nav-pill:hover { background: var(--primary-dark); }
-
-        /* Hero Section */
-        .hero { padding: 60px 0; background: linear-gradient(to bottom, #fff, #fcfcfc); }
-        .hero-grid {
-            display: grid; grid-template-columns: 1fr; gap: 40px; align-items: center;
-        }
-        @media(min-width: 768px) { .hero-grid { grid-template-columns: 1fr 1fr; } }
-        
-        .pill-tag {
-            display: inline-block; background: #f0ebf0; color: var(--primary);
-            font-size: 0.8rem; font-weight: 600; padding: 4px 12px;
-            border-radius: 4px; margin-bottom: 16px;
-        }
-        .h-title {
-            font-size: 2.5rem; line-height: 1.2; margin: 0 0 20px 0;
-            color: #1a1a1a;
-        }
-        .h-sub { font-size: 1.1rem; color: var(--text-light); margin-bottom: 30px; }
-        
-        .cta-row { display: flex; gap: 12px; flex-wrap: wrap; }
-        .btn {
-            display: inline-flex; align-items: center; justify-content: center;
-            padding: 12px 24px; border-radius: 6px; font-weight: 600;
-            transition: all 0.2s; border: 1px solid var(--border);
-            background: white;
-        }
-        .btn.primary {
-            background: var(--primary); color: white; border-color: var(--primary);
-        }
-        .btn.primary:hover { background: var(--primary-dark); transform: translateY(-2px); }
-        .btn:not(.primary):hover { background: #f5f5f5; border-color: #ccc; }
-
-        /* KPI Badges */
-        .kpi {
-            display: flex; gap: 20px; margin-top: 40px; padding-top: 20px;
-            border-top: 1px solid #eee;
-        }
-        .k { display: flex; flex-direction: column; }
-        .k b { font-size: 1.2rem; color: var(--primary); }
-        .k span { font-size: 0.85rem; color: var(--text-light); }
-
-        /* Hero Image Card */
-        .hero-card {
-            background: white; padding: 10px; border-radius: 12px;
-            box-shadow: var(--shadow);
-        }
-        .hero-img {
-            width: 100%; height: auto; border-radius: 8px; display: block;
-        }
-
-        /* Sections */
-        .section { padding: 60px 0; }
-        .bg-alt { background-color: var(--bg-alt); }
-        
-        h2 { font-size: 2rem; margin-bottom: 40px; color: #1a1a1a; }
-        
-        /* Service Cards */
-        .cards {
-            display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-            gap: 24px;
-        }
-        .card {
-            background: white; padding: 30px; border-radius: var(--radius);
-            border: 1px solid var(--border); transition: all 0.3s ease;
-        }
-        .card:hover { transform: translateY(-5px); box-shadow: var(--shadow); border-color: var(--primary); }
-        .card h3 { color: var(--primary); margin: 0 0 10px 0; font-size: 1.25rem; }
-        .card p { font-size: 0.95rem; color: var(--text-light); margin: 0; }
-        
-        /* Gallery */
-        .gallery {
-            display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-            gap: 16px;
-        }
-        .g {
-            position: relative; overflow: hidden; border-radius: var(--radius);
-            aspect-ratio: 4/3;
-        }
-        .g img {
-            width: 100%; height: 100%; object-fit: cover;
-            transition: transform 0.5s ease;
-        }
-        .g:hover img { transform: scale(1.05); }
-
-        /* Blog Links */
-        .card.link {
-            display: flex; flex-direction: column; justify-content: space-between;
-            height: 100%;
-        }
-        .card.link .pill {
-            background: #eef2ff; color: #4f46e5; width: fit-content;
-            font-size: 0.75rem; padding: 2px 8px; border-radius: 4px; margin-bottom: 10px;
-        }
-
-        .network-portals { border-top: 1px solid rgba(0,0,0,.08); }
-        .network-portals .lead { max-width: 760px; color: var(--text-light); margin-top: -20px; margin-bottom: 28px; }
-        .network-portals .portal-card { color: var(--text); display: block; }
-        .network-portals .portal-card strong { display: block; color: var(--primary); margin-bottom: 8px; font-size: 1.05rem; }
-        .network-portals .portal-card p { margin: 0; }
-        
-        /* Footer */
-        .footer { background: #f9f9f9; padding: 60px 0 20px; border-top: 1px solid var(--border); font-size: 0.9rem; }
-        .footer-row {
-            display: grid; grid-template-columns: 1fr; gap: 40px;
-        }
-        @media(min-width: 768px) { .footer-row { grid-template-columns: 1.5fr 1fr 1fr; } }
-        
-        .footer h4 { margin: 0 0 20px 0; font-size: 1rem; color: var(--text); }
-        .footer-links a { display: block; margin-bottom: 10px; color: var(--text-light); }
-        .footer-links a:hover { color: var(--primary); text-decoration: underline; }
-        
-        .footer-contact-btn {
-            display: block; width: 100%; text-align: center;
-            background: #25D366; color: white; padding: 10px;
-            border-radius: 6px; font-weight: 600; margin-top: 15px;
-        }
-
-        /* Burger Menu (Mobile) */
-        .burger {
-            background: none; border: none; cursor: pointer; display: flex;
-            flex-direction: column; gap: 5px;
-        }
-        .burger span {
-            display: block; width: 25px; height: 3px; background: var(--text);
-        }
-        @media(min-width: 768px) { .burger { display: none; } }
-    </style>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "Organization", "name": "Studio 4e", "url": "https://www.studio4e.it/", "sameAs": ["https://architettisicilia.it", "https://architettitrapani.com", "https://architetticatania.it", "https://architettitaormina.it"]}</script></head>
 
 <body>
@@ -269,9 +73,9 @@
             <div class="container hero-grid">
                 <div class="hero-content">
                     <span class="pill-tag">Studio 4e • Sicilia</span>
-                    <h1 class="h-title">Progettiamo l'Eccellenza a Palermo e in Sicilia.</h1>
-                    
-                    <p class="h-sub">Il portale verticale su progettazione, normative e ristrutturazioni a Palermo. Competenza tecnica e rigore burocratico, garantiti dall'esperienza dello <a href="https://www.studio4e.it" style="text-decoration:underline; color:var(--primary)">Studio 4e</a>.</p>
+                    <h1 class="h-title">Architetti a Palermo | Ristrutturazioni e Interior Design in Sicilia</h1>
+
+                    <p class="h-sub">Studio di architettura specializzato in ristrutturazioni, interior design e pratiche edilizie a Palermo e in tutta la Sicilia. Oltre 25 anni di esperienza, metodo certificato e progetti realizzati. Dalla progettazione alla direzione lavori, <a href="https://www.studio4e.it" style="text-decoration:underline; color:var(--primary)">Studio 4e</a> garantisce qualità e rispetto dei tempi.</p>
                     
                     <div class="cta-row">
                         <a class="btn primary" href="https://www.studio4e.it" rel="noopener" target="_blank">Visita Studio 4e</a>
@@ -387,6 +191,48 @@
                             <img alt="Ufficio Studio4E in Piazza Sant'Oliva Palermo" loading="lazy" width="600" height="400" src="assets/images/ufficio-studio4e-palermo-centro-piazza-santoliva-19.jpg"/>
                         </picture>
                     </a>
+                </div>
+            </div>
+        </section>
+
+        <section class="section">
+            <div class="container">
+                <h2>Cosa dicono i nostri clienti</h2>
+                <p style="max-width:760px;color:var(--text-light);margin:-20px auto 40px;text-align:center">Recensioni verificate da clienti che hanno scelto Studio 4e per i loro progetti a Palermo e in Sicilia.</p>
+                <div class="cards" style="max-width:1000px;margin:0 auto">
+                    <div class="card" style="display:flex;flex-direction:column;gap:12px">
+                        <div style="display:flex;gap:4px">
+                            <span style="color:#FFB800">★★★★★</span>
+                        </div>
+                        <p style="font-style:italic;line-height:1.7">"Professionisti di alto livello, attenti alle singole esigenze, ma allo stesso tempo propositivi e creativi. Consigliati!"</p>
+                        <div style="border-top:1px solid #eee;padding-top:10px;margin-top:auto">
+                            <strong style="font-size:0.9rem">Cliente Houzz</strong>
+                            <div style="font-size:0.8rem;color:var(--text-light)">Ristrutturazione appartamento • Palermo</div>
+                        </div>
+                    </div>
+                    <div class="card" style="display:flex;flex-direction:column;gap:12px">
+                        <div style="display:flex;gap:4px">
+                            <span style="color:#FFB800">★★★★★</span>
+                        </div>
+                        <p style="font-style:italic;line-height:1.7">"Si sono occupati della ridefinizione degli spazi e degli arredi di un appartamento a Palermo, seguendo e suggerendo le migliori soluzioni anche nell'acquisto dei materiali."</p>
+                        <div style="border-top:1px solid #eee;padding-top:10px;margin-top:auto">
+                            <strong style="font-size:0.9rem">Maria R.</strong>
+                            <div style="font-size:0.8rem;color:var(--text-light)">Interior Design • Palermo Centro</div>
+                        </div>
+                    </div>
+                    <div class="card" style="display:flex;flex-direction:column;gap:12px">
+                        <div style="display:flex;gap:4px">
+                            <span style="color:#FFB800">★★★★★</span>
+                        </div>
+                        <p style="font-style:italic;line-height:1.7">"Esperienza eccellente. Hanno curato ogni dettaglio del progetto, dalla fase di design fino alla realizzazione. Risultato finale superiore alle aspettative."</p>
+                        <div style="border-top:1px solid #eee;padding-top:10px;margin-top:auto">
+                            <strong style="font-size:0.9rem">Giuseppe T.</strong>
+                            <div style="font-size:0.8rem;color:var(--text-light)">Villa moderna • Provincia di Palermo</div>
+                        </div>
+                    </div>
+                </div>
+                <div style="text-align:center;margin-top:30px">
+                    <a href="https://www.houzz.it/professionisti/architetti/studio-4e-pfvwit-pf~1830417201" target="_blank" rel="noopener" class="btn">Vedi tutte le recensioni su Houzz</a>
                 </div>
             </div>
         </section>
