@@ -1,0 +1,519 @@
+Sei un esperto SEO di livello mondiale specializzato in local SEO italiano, content authority e dominanza SERP. Il tuo obiettivo è portare architettipalermo.it al primo posto su Google per tutte le ricerche legate ad architetti a Palermo. Non vogliamo essere "tra i primi" — vogliamo essere IL primo risultato, quello che gli utenti cliccano senza guardare gli altri.
+
+——————————————————————————
+CONTESTO E OBIETTIVO STRATEGICO
+——————————————————————————
+architettipalermo.it è un sito editoriale e directory dedicato esclusivamente agli architetti e studi di architettura di Palermo e provincia. L'unico studio partner è Studio 4e (studio4e.it), con sede a Palermo, attivo dal 1996. Il sito deve diventare la fonte di riferimento assoluta sul settore architettura a Palermo — più autorevole degli Ordini professionali, più utile di qualsiasi competitor, più ricco di qualsiasi directory generica.
+
+OBIETTIVO PRIMARIO: dominare la SERP per "architetti Palermo", "architetto Palermo", "migliori architetti Palermo" e tutte le varianti long-tail correlate.
+OBIETTIVO SECONDARIO: costruire authority editoriale così solida che Google consideri architettipalermo.it la fonte di riferimento del settore a livello locale.
+
+Competitor da analizzare e battere: cerca su Google "architetti Palermo" e "migliori architetti Palermo" e analizza i primi 10 risultati. Per ognuno identifica: struttura del sito, keyword usate, tipo di contenuti, backlink visibili, punti deboli da sfruttare.
+
+——————————————————————————
+TASK 1 — KEYWORD MAP COMPLETA (docs/gemini/task01_keyword_map.md)
+——————————————————————————
+Crea una keyword map esaustiva e prioritizzata per dominare la SERP palermitana:
+
+LIVELLO 1 — Head terms (volume alto, difficoltà alta, obiettivo finale):
+- "architetti Palermo", "architetto Palermo", "studio architettura Palermo", "migliori architetti Palermo"
+
+LIVELLO 2 — Mid-tail per servizio (da aggredire subito):
+- ristrutturazione casa Palermo, progettazione interni Palermo, architetto ristrutturazione Palermo, architetto interni Palermo, architetto paesaggista Palermo, architetto restauro Palermo, architetto sostenibile Palermo, direzione lavori Palermo, pratiche edilizie Palermo
+
+LIVELLO 3 — Long-tail per zona/quartiere (vittorie rapide, zero competizione):
+- architetto Palermo centro storico, architetto Mondello, architetto Monreale, architetto Bagheria, architetto Villabate, architetto Ficarazzi, architetto Misilmeri, architetto Altofonte, architetto Capaci, architetto Isola delle Femmine, architetto Sferracavallo, architetto Tommaso Natale, architetto Uditore, architetto Zisa, architetto Noce, architetto Brancaccio, architetto Zen Palermo, architetto Partanna Mondello
+
+LIVELLO 4 — Query informazionali ad alto intent (traffico educato che converte):
+- quanto costa un architetto a Palermo, come scegliere un architetto a Palermo, quando serve un architetto a Palermo, architetto o geometra Palermo, costo progetto architettonico Palermo, costo ristrutturazione appartamento Palermo
+
+LIVELLO 5 — Query emergenti AI/GEO (per dominare anche le risposte AI):
+- migliori studi di architettura Palermo, studio architettura Palermo storico, architetti palermitani famosi, architettura contemporanea Palermo
+
+Per ogni keyword: volume stimato, difficoltà (1-10), intent (informazionale/transazionale/navigazionale), priorità (alta/media/bassa), pagina target del sito.
+
+——————————————————————————
+TASK 2 — ARCHITETTURA DEL SITO PER DOMINARE LA SERP (docs/gemini/task02_site_architecture.md)
+——————————————————————————
+Progetta una struttura del sito che Google non possa ignorare:
+
+- Homepage ottimizzata per "architetti Palermo" con content hub completo
+- Silo tematico per servizio: /ristrutturazione/, /progettazione/, /interni/, /restauro/, /sostenibile/
+- Silo geografico per zona: /palermo-centro/, /mondello/, /monreale/, /bagheria/ + tutte le zone del livello 3
+- Hub authority: /guide/, /glossario/, /normative/, /progetti/
+- Pagine speciali per dominare featured snippet: /costi/, /faq/, /come-scegliere-architetto-palermo/
+- Sezione Studio 4e: /studio-di-riferimento/ con case study, portfolio, storia
+
+Per ogni pagina: URL slug, keyword target, meta title, tipo di contenuto, link interni in entrata e uscita.
+
+——————————————————————————
+TASK 3 — CONTENUTI PILLAR CHE DOMINANO (docs/gemini/task03_contenuti_pillar.md)
+——————————————————————————
+Crea 15 brief completi per articoli pillar pensati per conquistare posizione 1 o featured snippet:
+
+1. "Migliori architetti a Palermo nel 2025: guida completa" — pagina-categoria definitiva
+2. "Quanto costa un architetto a Palermo nel 2025: prezzi reali e preventivi"
+3. "Come scegliere un architetto a Palermo: guida in 7 step"
+4. "Ristrutturazione casa a Palermo: guida completa costi, tempi e professionisti"
+5. "Architetti specializzati nel restauro del centro storico di Palermo"
+6. "Architettura sostenibile a Palermo: i migliori studi per case green"
+7. "Superbonus e Bonus Edilizi a Palermo: quando serve un architetto"
+8. "Architetto o geometra a Palermo: quando scegliere l'uno o l'altro"
+9. "I quartieri di Palermo e i loro architetti di riferimento"
+10. "Storia dell'architettura palermitana: dal barocco al contemporaneo"
+11. "I migliori progetti di riqualificazione urbana a Palermo degli ultimi 10 anni"
+12. "Come aprire uno studio di architettura a Palermo: guida pratica"
+13. "Architetti per ville e case di lusso a Palermo e provincia"
+14. "Palermo accessibile: architetti specializzati in abbattimento barriere architettoniche"
+15. "Studio 4e Palermo: 30 anni di architettura in Sicilia — storia e progetti"
+
+Per ogni articolo: titolo H1, struttura H2/H3 completa, keyword primaria e secondarie, word count target, angolo differenziante rispetto ai competitor, tipo di featured snippet da conquistare (paragraph/list/table), CTA finale.
+
+——————————————————————————
+TASK 4 — AUTHORITY BUILDING SISTEMATICO (docs/gemini/task04_authority.md)
+——————————————————————————
+Strategia completa per costruire l'authority più solida del settore a Palermo:
+
+AUTHORITY EDITORIALE:
+- Piano per diventare la Wikipedia dell'architettura palermitana
+- Formato e frequenza di pubblicazione per segnalare freshness a Google
+- Come strutturare ogni articolo per massimizzare E-E-A-T (autore esperto, date aggiornamento, fonti citate)
+- Pagina autore/redazione credibile con bio di Studio 4e come curatore editoriale
+
+AUTHORITY DA CITAZIONI ISTITUZIONALI:
+- Ordine degli Architetti di Palermo: come citarlo, come ottenere citazioni reciproche
+- Comune di Palermo — Assessorato all'Urbanistica: normative da citare
+- Soprintendenza BB.CC. e AA. di Palermo: restauro e vincoli
+- Università degli Studi di Palermo — Facoltà di Architettura
+- ENEA Sicilia, CNR Palermo: per contenuti su sostenibilità
+- Camera di Commercio di Palermo: dati mercato
+
+AUTHORITY DA BACKLINK:
+- Lista di 20 siti locali palermitani dove ottenere backlink (testate, blog, associazioni)
+- Strategia di digital PR: come farsi citare da giornali locali (Giornale di Sicilia, PalermoToday, LiveSicilia)
+- Come usare le interviste agli architetti per generare backlink naturali quando i professionisti le condividono
+- Press kit strategico per giornalisti
+
+AUTHORITY DA DATI UNICI:
+- Crea un "Osservatorio Architettura Palermo" annuale con dati originali
+- Statistiche esclusive: numero studi attivi, prezzi medi, trend ristrutturazioni
+- Questi dati originali vengono citati da altri siti → backlink editoriali automatici
+
+——————————————————————————
+TASK 5 — SCHEMA MARKUP E TECHNICAL SEO (docs/gemini/task05_technical_seo.md)
+——————————————————————————
+Implementazione tecnica per segnali SEO massimi:
+
+JSON-LD completo per:
+- Homepage: WebSite + Organization + LocalBusiness (con geo coordinates Palermo)
+- Pagina studio: ProfessionalService + LocalBusiness + Review aggregate
+- Articoli: Article + BreadcrumbList + Author + FAQPage dove applicabile
+- Pagine FAQ: FAQPage schema per conquistare featured snippet
+- Pagine costi: Table schema
+
+Ottimizzazioni tecniche da implementare:
+- Core Web Vitals target per Palermo mobile (80%+ traffico da mobile)
+- Hreflang se si prevede versione inglese per turisti/expat
+- Sitemap.xml struttura consigliata
+- Robots.txt ottimizzato
+- Canonical tags per evitare duplicati tra pagine geografiche simili
+
+——————————————————————————
+TASK 6 — STUDIO 4E COME AUTHORITY ANCHOR (docs/gemini/task06_studio4e.md)
+——————————————————————————
+Studio 4e (studio4e.it) è l'unico studio partner. Va posizionato non come sponsor ma come il fondatore e curatore scientifico del sito — l'equivalente di un professore universitario che dirige una rivista accademica.
+
+Strategia completa:
+- Come presentare Studio 4e nella homepage senza sembrare advertorial
+- Pagina dedicata /studio-di-riferimento/ con storia 1996-oggi, filosofia, progetti iconici palermitani
+- Come firmare i contenuti tecnici con il nome di Studio 4e per aumentare E-E-A-T
+- Case study di 5 progetti palermitani di Studio 4e da usare come contenuti pillar
+- Intervista fondatore: struttura completa, domande, angolo narrativo "30 anni di architettura a Palermo"
+- Come inserire link a studio4e.it in modo naturale e contestuale in ogni sezione del sito
+- Anchor text variabili consigliati per i link verso studio4e.it
+- Come usare Studio 4e per ottenere citazioni dall'Ordine degli Architetti di Palermo
+
+——————————————————————————
+TASK 7 — META TAG E SNIPPET OTTIMIZZATI (docs/gemini/task07_meta_tag.md)
+——————————————————————————
+Title tag e meta description ottimizzati per massimo CTR organico (non solo keyword):
+
+Pagine da coprire: homepage, /ristrutturazione/, /progettazione/, /interni/, /restauro/, /costi/, /come-scegliere/, /palermo-centro/, /mondello/, /monreale/, /bagheria/, /studio-di-riferimento/, /glossario/, /guide/
+
+Per ognuna: title tag (max 60 char, keyword + beneficio), meta description (max 155 char, keyword + CTA emotiva), anteprima Google Desktop e Mobile.
+
+——————————————————————————
+TASK 8 — FEATURED SNIPPET E AI OVERVIEW STRATEGY (docs/gemini/task08_featured_snippets.md)
+——————————————————————————
+Strategia per conquistare i featured snippet e le AI Overview di Google (SGE):
+
+- Lista delle query Palermo-specifiche con snippet disponibili
+- Formato ottimale per ogni tipo: paragraph snippet, list snippet, table snippet
+- Come strutturare le FAQ per apparire nelle People Also Ask
+- Come ottimizzare i contenuti per essere citati nelle risposte AI di Google, ChatGPT e Claude (GEO - Generative Engine Optimization)
+- Template di sezione FAQ da aggiungere in fondo ad ogni articolo pillar
+- Come usare i dati strutturati per massimizzare la probabilità di snippet
+
+——————————————————————————
+TASK 9 — CALENDARIO EDITORIALE 12 MESI (docs/gemini/task09_calendario.md)
+——————————————————————————
+Piano editoriale annuale (non 6 mesi — vogliamo dominare tutto l'anno):
+
+- 2 articoli pillar al mese (totale 24)
+- 4 contenuti short-form al mese per freshness signal (news locali, aggiornamenti normativi)
+- 1 intervista architetto al mese (backlink quando condivisa)
+- 1 aggiornamento "Osservatorio Architettura Palermo" trimestrale
+- Stagionalità: picco ristrutturazioni primavera/autunno, Superbonus scadenze, concorsi pubblici
+
+Formato tabella: mese, titolo contenuto, tipo, keyword target, note strategiche.
+
+——————————————————————————
+TASK 10 — GLOSSARIO ARCHITETTURA PALERMITANA (docs/gemini/task10_glossario.md)
+——————————————————————————
+40 voci (non 30 — vogliamo essere esaustivi) dell'architettura palermitana e siciliana:
+
+Termini tipologici: cortile palermitano, baglio, loggiato, androne, piano nobile, belvedere
+Stili: barocco siciliano, stile liberty palermitano, arabo-normanno, gotico catalano, razionalismo siciliano
+Materiali locali: tufo di Billiemi, pietra calcarea siciliana, maioliche palermitane
+Elementi urbani: vicolo palermitano, slargo, piazzetta, palazzotto nobiliare
+Termini tecnici locali: cubatura, volumetria, vincolo paesaggistico Sicilia, Piano Regolatore Palermo
+
+Per ogni voce: definizione 150-200 parole, contesto storico/geografico palermitano, collegamento a possibili articoli del sito o progetti di Studio 4e, keyword SEO associate.
+
+——————————————————————————
+TASK 11 — TEMPLATE INTERVISTE (docs/gemini/task11_interviste.md)
+——————————————————————————
+Rubrica "L'Architetto Palermitano" — motore di backlink e authority:
+
+Template universale con 12 domande (più ricco del solito):
+- Storia professionale e radici palermitane
+- Progetti più significativi in città
+- Sfide specifiche dell'architettura a Palermo (vincoli, burocrazia, clima)
+- Visione sul futuro urbanistico di Palermo
+- Consiglio ai clienti che cercano un architetto a Palermo
+
+Prima intervista: fondatore Studio 4e — bozza completa delle domande calibrate sulla storia 1996-oggi e sui progetti palermitani più significativi.
+
+Strategia di amplificazione: come far condividere l'intervista sui social, come richiedere link dall'intervistato, come proporre la ripubblicazione a testate locali.
+
+——————————————————————————
+TASK 12 — CITAZIONI E LINK BUILDING LOCALE (docs/gemini/task12_link_building.md)
+——————————————————————————
+Piano completo di link building locale a Palermo:
+
+FONTI ISTITUZIONALI (autorità massima):
+- Ordine Architetti Palermo (OA_PA): come ottenere citazione/link dalla sezione risorse
+- Comune di Palermo: come comparire nelle pagine di riferimento professionisti
+- Università di Palermo — DARCH: collaborazioni editoriali, citazioni in tesi
+- Soprintendenza Palermo: come diventare fonte per contenuti sul patrimonio
+
+MEDIA LOCALI (traffico referral + brand):
+- Giornale di Sicilia: come ottenere interviste e citazioni
+- PalermoToday, LiveSicilia, MeridioNews: come diventare fonte per articoli architettura
+- Blog locali: lista dei 10 blog palermitani più rilevanti da cui ottenere link
+
+DIRECTORY E AGGREGATORI:
+- Lista directory italiane dove registrare il sito (con DA/DR)
+- Come ottimizzare la scheda Google Business Profile del sito
+- Registrazione su portali architettura italiani (Archidiaries, Divisare, ecc.)
+
+DIGITAL PR:
+- Comunicato stampa tipo per il lancio dell'"Osservatorio Architettura Palermo"
+- Template email outreach per proporre collaborazioni editoriali
+
+——————————————————————————
+TASK 13 — PRESS KIT E OSSERVATORIO (docs/gemini/task13_press_kit.md)
+——————————————————————————
+Due asset scaricabili che generano backlink automatici:
+
+PRESS KIT:
+- Dati mercato architettura Palermo (professionisti iscritti all'Ordine, trend commesse, prezzi medi 2024-2025)
+- Profilo del pubblico del sito
+- Info contatto per giornalisti
+- Logo e materiali grafici del sito
+
+OSSERVATORIO ARCHITETTURA PALERMO — PRIMO REPORT:
+- Struttura del report annuale che architettipalermo.it pubblicherà ogni anno
+- Sezioni: mercato, prezzi, trend stilistici, normative, intervista dell'anno
+- Come distribuirlo per massimizzare i backlink editoriali
+- Come proporre il report a Giornale di Sicilia, PalermoToday, Ordine Architetti PA
+
+——————————————————————————
+VINCOLI TRASVERSALI ASSOLUTI
+——————————————————————————
+- Ogni pagina deve essere la MIGLIORE sul web per la sua keyword target — non "buona", la migliore
+- Zero keyword stuffing: densità 1-2%, naturalezza prima di tutto
+- E-E-A-T massimo: ogni contenuto firmato, datato, con fonti verificabili
+- Studio 4e sempre presente in modo editorialmente naturale, mai come banner
+- Mobile-first: il 80%+ degli utenti cerca da mobile — struttura e testi pensati per mobile
+- GEO (Generative Engine Optimization): ogni contenuto deve essere citabile dalle AI — struttura chiara, dati verificabili, risposte dirette alle domande
+- Freshness: ogni pagina aggiornata almeno ogni 6 mesi con data visibile
+- Obiettivo finale: quando qualcuno cerca "migliori architetti Palermo" su Google, architettipalermo.it è il primo risultato organico, punto
+
+Dopo aver creato tutti i file in docs/gemini/, esegui:
+git add docs/gemini/
+git commit -m "feat: full SERP domination strategy for architettipalermo.it — 13 tasks"
+git push origin gemini/seo-strategy
+
+Procedi task per task, in italiano. Sii esaustivo, concreto e operativo — niente teoria, solo azioni implementabili immediatamente.
+†††††††æææææ
+y†
+xy
+[Sei un esperto SEO di livello mondiale specializzato in local SEO italiano, content authority e dominanza SERP. Il tuo obiettivo è portare architettipalermo.it al primo posto su Google per tutte le ricerche legate ad architetti a Palermo. Non vogliamo essere "tra i primi" — vogliamo essere IL primo risultato, quello che gli utenti cliccano senza guardare gli altri.
+
+——————————————————————————
+CONTESTO E OBIETTIVO STRATEGICO
+——————————————————————————
+architettipalermo.it è un sito editoriale e directory dedicato esclusivamente agli architetti e studi di architettura di Palermo e provincia. L'unico studio partner è Studio 4e (studio4e.it), con sede a Palermo, attivo dal 1996. Il sito deve diventare la fonte di riferimento assoluta sul settore architettura a Palermo — più autorevole degli Ordini professionali, più utile di qualsiasi competitor, più ricco di qualsiasi directory generica.
+
+OBIETTIVO PRIMARIO: dominare la SERP per "architetti Palermo", "architetto Palermo", "migliori architetti Palermo" e tutte le varianti long-tail correlate.
+OBIETTIVO SECONDARIO: costruire authority editoriale così solida che Google consideri architettipalermo.it la fonte di riferimento del settore a livello locale.
+
+Competitor da analizzare e battere: cerca su Google "architetti Palermo" e "migliori architetti Palermo" e analizza i primi 10 risultati. Per ognuno identifica: struttura del sito, keyword usate, tipo di contenuti, backlink visibili, punti deboli da sfruttare.
+
+——————————————————————————
+TASK 1 — KEYWORD MAP COMPLETA (docs/gemini/task01_keyword_map.md)
+——————————————————————————
+Crea una keyword map esaustiva e prioritizzata per dominare la SERP palermitana:
+
+LIVELLO 1 — Head terms (volume alto, difficoltà alta, obiettivo finale):
+- "architetti Palermo", "architetto Palermo", "studio architettura Palermo", "migliori architetti Palermo"
+
+LIVELLO 2 — Mid-tail per servizio (da aggredire subito):
+- ristrutturazione casa Palermo, progettazione interni Palermo, architetto ristrutturazione Palermo, architetto interni Palermo, architetto paesaggista Palermo, architetto restauro Palermo, architetto sostenibile Palermo, direzione lavori Palermo, pratiche edilizie Palermo
+
+LIVELLO 3 — Long-tail per zona/quartiere (vittorie rapide, zero competizione):
+- architetto Palermo centro storico, architetto Mondello, architetto Monreale, architetto Bagheria, architetto Villabate, architetto Ficarazzi, architetto Misilmeri, architetto Altofonte, architetto Capaci, architetto Isola delle Femmine, architetto Sferracavallo, architetto Tommaso Natale, architetto Uditore, architetto Zisa, architetto Noce, architetto Brancaccio, architetto Zen Palermo, architetto Partanna Mondello
+
+LIVELLO 4 — Query informazionali ad alto intent (traffico educato che converte):
+- quanto costa un architetto a Palermo, come scegliere un architetto a Palermo, quando serve un architetto a Palermo, architetto o geometra Palermo, costo progetto architettonico Palermo, costo ristrutturazione appartamento Palermo
+
+LIVELLO 5 — Query emergenti AI/GEO (per dominare anche le risposte AI):
+- migliori studi di architettura Palermo, studio architettura Palermo storico, architetti palermitani famosi, architettura contemporanea Palermo
+
+Per ogni keyword: volume stimato, difficoltà (1-10), intent (informazionale/transazionale/navigazionale), priorità (alta/media/bassa), pagina target del sito.
+
+——————————————————————————
+TASK 2 — ARCHITETTURA DEL SITO PER DOMINARE LA SERP (docs/gemini/task02_site_architecture.md)
+——————————————————————————
+Progetta una struttura del sito che Google non possa ignorare:
+
+- Homepage ottimizzata per "architetti Palermo" con content hub completo
+- Silo tematico per servizio: /ristrutturazione/, /progettazione/, /interni/, /restauro/, /sostenibile/
+- Silo geografico per zona: /palermo-centro/, /mondello/, /monreale/, /bagheria/ + tutte le zone del livello 3
+- Hub authority: /guide/, /glossario/, /normative/, /progetti/
+- Pagine speciali per dominare featured snippet: /costi/, /faq/, /come-scegliere-architetto-palermo/
+- Sezione Studio 4e: /studio-di-riferimento/ con case study, portfolio, storia
+
+Per ogni pagina: URL slug, keyword target, meta title, tipo di contenuto, link interni in entrata e uscita.
+
+——————————————————————————
+TASK 3 — CONTENUTI PILLAR CHE DOMINANO (docs/gemini/task03_contenuti_pillar.md)
+——————————————————————————
+Crea 15 brief completi per articoli pillar pensati per conquistare posizione 1 o featured snippet:
+
+1. "Migliori architetti a Palermo nel 2025: guida completa" — pagina-categoria definitiva
+2. "Quanto costa un architetto a Palermo nel 2025: prezzi reali e preventivi"
+3. "Come scegliere un architetto a Palermo: guida in 7 step"
+4. "Ristrutturazione casa a Palermo: guida completa costi, tempi e professionisti"
+5. "Architetti specializzati nel restauro del centro storico di Palermo"
+6. "Architettura sostenibile a Palermo: i migliori studi per case green"
+7. "Superbonus e Bonus Edilizi a Palermo: quando serve un architetto"
+8. "Architetto o geometra a Palermo: quando scegliere l'uno o l'altro"
+9. "I quartieri di Palermo e i loro architetti di riferimento"
+10. "Storia dell'architettura palermitana: dal barocco al contemporaneo"
+11. "I migliori progetti di riqualificazione urbana a Palermo degli ultimi 10 anni"
+12. "Come aprire uno studio di architettura a Palermo: guida pratica"
+13. "Architetti per ville e case di lusso a Palermo e provincia"
+14. "Palermo accessibile: architetti specializzati in abbattimento barriere architettoniche"
+15. "Studio 4e Palermo: 30 anni di architettura in Sicilia — storia e progetti"
+
+Per ogni articolo: titolo H1, struttura H2/H3 completa, keyword primaria e secondarie, word count target, angolo differenziante rispetto ai competitor, tipo di featured snippet da conquistare (paragraph/list/table), CTA finale.
+
+——————————————————————————
+TASK 4 — AUTHORITY BUILDING SISTEMATICO (docs/gemini/task04_authority.md)
+——————————————————————————
+Strategia completa per costruire l'authority più solida del settore a Palermo:
+
+AUTHORITY EDITORIALE:
+- Piano per diventare la Wikipedia dell'architettura palermitana
+- Formato e frequenza di pubblicazione per segnalare freshness a Google
+- Come strutturare ogni articolo per massimizzare E-E-A-T (autore esperto, date aggiornamento, fonti citate)
+- Pagina autore/redazione credibile con bio di Studio 4e come curatore editoriale
+
+AUTHORITY DA CITAZIONI ISTITUZIONALI:
+- Ordine degli Architetti di Palermo: come citarlo, come ottenere citazioni reciproche
+- Comune di Palermo — Assessorato all'Urbanistica: normative da citare
+- Soprintendenza BB.CC. e AA. di Palermo: restauro e vincoli
+- Università degli Studi di Palermo — Facoltà di Architettura
+- ENEA Sicilia, CNR Palermo: per contenuti su sostenibilità
+- Camera di Commercio di Palermo: dati mercato
+
+AUTHORITY DA BACKLINK:
+- Lista di 20 siti locali palermitani dove ottenere backlink (testate, blog, associazioni)
+- Strategia di digital PR: come farsi citare da giornali locali (Giornale di Sicilia, PalermoToday, LiveSicilia)
+- Come usare le interviste agli architetti per generare backlink naturali quando i professionisti le condividono
+- Press kit strategico per giornalisti
+
+AUTHORITY DA DATI UNICI:
+- Crea un "Osservatorio Architettura Palermo" annuale con dati originali
+- Statistiche esclusive: numero studi attivi, prezzi medi, trend ristrutturazioni
+- Questi dati originali vengono citati da altri siti → backlink editoriali automatici
+
+——————————————————————————
+TASK 5 — SCHEMA MARKUP E TECHNICAL SEO (docs/gemini/task05_technical_seo.md)
+——————————————————————————
+Implementazione tecnica per segnali SEO massimi:
+
+JSON-LD completo per:
+- Homepage: WebSite + Organization + LocalBusiness (con geo coordinates Palermo)
+- Pagina studio: ProfessionalService + LocalBusiness + Review aggregate
+- Articoli: Article + BreadcrumbList + Author + FAQPage dove applicabile
+- Pagine FAQ: FAQPage schema per conquistare featured snippet
+- Pagine costi: Table schema
+
+Ottimizzazioni tecniche da implementare:
+- Core Web Vitals target per Palermo mobile (80%+ traffico da mobile)
+- Hreflang se si prevede versione inglese per turisti/expat
+- Sitemap.xml struttura consigliata
+- Robots.txt ottimizzato
+- Canonical tags per evitare duplicati tra pagine geografiche simili
+
+——————————————————————————
+TASK 6 — STUDIO 4E COME AUTHORITY ANCHOR (docs/gemini/task06_studio4e.md)
+——————————————————————————
+Studio 4e (studio4e.it) è l'unico studio partner. Va posizionato non come sponsor ma come il fondatore e curatore scientifico del sito — l'equivalente di un professore universitario che dirige una rivista accademica.
+
+Strategia completa:
+- Come presentare Studio 4e nella homepage senza sembrare advertorial
+- Pagina dedicata /studio-di-riferimento/ con storia 1996-oggi, filosofia, progetti iconici palermitani
+- Come firmare i contenuti tecnici con il nome di Studio 4e per aumentare E-E-A-T
+- Case study di 5 progetti palermitani di Studio 4e da usare come contenuti pillar
+- Intervista fondatore: struttura completa, domande, angolo narrativo "30 anni di architettura a Palermo"
+- Come inserire link a studio4e.it in modo naturale e contestuale in ogni sezione del sito
+- Anchor text variabili consigliati per i link verso studio4e.it
+- Come usare Studio 4e per ottenere citazioni dall'Ordine degli Architetti di Palermo
+
+——————————————————————————
+TASK 7 — META TAG E SNIPPET OTTIMIZZATI (docs/gemini/task07_meta_tag.md)
+——————————————————————————
+Title tag e meta description ottimizzati per massimo CTR organico (non solo keyword):
+
+Pagine da coprire: homepage, /ristrutturazione/, /progettazione/, /interni/, /restauro/, /costi/, /come-scegliere/, /palermo-centro/, /mondello/, /monreale/, /bagheria/, /studio-di-riferimento/, /glossario/, /guide/
+
+Per ognuna: title tag (max 60 char, keyword + beneficio), meta description (max 155 char, keyword + CTA emotiva), anteprima Google Desktop e Mobile.
+
+——————————————————————————
+TASK 8 — FEATURED SNIPPET E AI OVERVIEW STRATEGY (docs/gemini/task08_featured_snippets.md)
+——————————————————————————
+Strategia per conquistare i featured snippet e le AI Overview di Google (SGE):
+
+- Lista delle query Palermo-specifiche con snippet disponibili
+- Formato ottimale per ogni tipo: paragraph snippet, list snippet, table snippet
+- Come strutturare le FAQ per apparire nelle People Also Ask
+- Come ottimizzare i contenuti per essere citati nelle risposte AI di Google, ChatGPT e Claude (GEO - Generative Engine Optimization)
+- Template di sezione FAQ da aggiungere in fondo ad ogni articolo pillar
+- Come usare i dati strutturati per massimizzare la probabilità di snippet
+
+——————————————————————————
+TASK 9 — CALENDARIO EDITORIALE 12 MESI (docs/gemini/task09_calendario.md)
+——————————————————————————
+Piano editoriale annuale (non 6 mesi — vogliamo dominare tutto l'anno):
+
+- 2 articoli pillar al mese (totale 24)
+- 4 contenuti short-form al mese per freshness signal (news locali, aggiornamenti normativi)
+- 1 intervista architetto al mese (backlink quando condivisa)
+- 1 aggiornamento "Osservatorio Architettura Palermo" trimestrale
+- Stagionalità: picco ristrutturazioni primavera/autunno, Superbonus scadenze, concorsi pubblici
+
+Formato tabella: mese, titolo contenuto, tipo, keyword target, note strategiche.
+
+——————————————————————————
+TASK 10 — GLOSSARIO ARCHITETTURA PALERMITANA (docs/gemini/task10_glossario.md)
+——————————————————————————
+40 voci (non 30 — vogliamo essere esaustivi) dell'architettura palermitana e siciliana:
+
+Termini tipologici: cortile palermitano, baglio, loggiato, androne, piano nobile, belvedere
+Stili: barocco siciliano, stile liberty palermitano, arabo-normanno, gotico catalano, razionalismo siciliano
+Materiali locali: tufo di Billiemi, pietra calcarea siciliana, maioliche palermitane
+Elementi urbani: vicolo palermitano, slargo, piazzetta, palazzotto nobiliare
+Termini tecnici locali: cubatura, volumetria, vincolo paesaggistico Sicilia, Piano Regolatore Palermo
+
+Per ogni voce: definizione 150-200 parole, contesto storico/geografico palermitano, collegamento a possibili articoli del sito o progetti di Studio 4e, keyword SEO associate.
+
+——————————————————————————
+TASK 11 — TEMPLATE INTERVISTE (docs/gemini/task11_interviste.md)
+——————————————————————————
+Rubrica "L'Architetto Palermitano" — motore di backlink e authority:
+
+Template universale con 12 domande (più ricco del solito):
+- Storia professionale e radici palermitane
+- Progetti più significativi in città
+- Sfide specifiche dell'architettura a Palermo (vincoli, burocrazia, clima)
+- Visione sul futuro urbanistico di Palermo
+- Consiglio ai clienti che cercano un architetto a Palermo
+
+Prima intervista: fondatore Studio 4e — bozza completa delle domande calibrate sulla storia 1996-oggi e sui progetti palermitani più significativi.
+
+Strategia di amplificazione: come far condividere l'intervista sui social, come richiedere link dall'intervistato, come proporre la ripubblicazione a testate locali.
+
+——————————————————————————
+TASK 12 — CITAZIONI E LINK BUILDING LOCALE (docs/gemini/task12_link_building.md)
+——————————————————————————
+Piano completo di link building locale a Palermo:
+
+FONTI ISTITUZIONALI (autorità massima):
+- Ordine Architetti Palermo (OA_PA): come ottenere citazione/link dalla sezione risorse
+- Comune di Palermo: come comparire nelle pagine di riferimento professionisti
+- Università di Palermo — DARCH: collaborazioni editoriali, citazioni in tesi
+- Soprintendenza Palermo: come diventare fonte per contenuti sul patrimonio
+
+MEDIA LOCALI (traffico referral + brand):
+- Giornale di Sicilia: come ottenere interviste e citazioni
+- PalermoToday, LiveSicilia, MeridioNews: come diventare fonte per articoli architettura
+- Blog locali: lista dei 10 blog palermitani più rilevanti da cui ottenere link
+
+DIRECTORY E AGGREGATORI:
+- Lista directory italiane dove registrare il sito (con DA/DR)
+- Come ottimizzare la scheda Google Business Profile del sito
+- Registrazione su portali architettura italiani (Archidiaries, Divisare, ecc.)
+
+DIGITAL PR:
+- Comunicato stampa tipo per il lancio dell'"Osservatorio Architettura Palermo"
+- Template email outreach per proporre collaborazioni editoriali
+
+——————————————————————————
+TASK 13 — PRESS KIT E OSSERVATORIO (docs/gemini/task13_press_kit.md)
+——————————————————————————
+Due asset scaricabili che generano backlink automatici:
+
+PRESS KIT:
+- Dati mercato architettura Palermo (professionisti iscritti all'Ordine, trend commesse, prezzi medi 2024-2025)
+- Profilo del pubblico del sito
+- Info contatto per giornalisti
+- Logo e materiali grafici del sito
+
+OSSERVATORIO ARCHITETTURA PALERMO — PRIMO REPORT:
+- Struttura del report annuale che architettipalermo.it pubblicherà ogni anno
+- Sezioni: mercato, prezzi, trend stilistici, normative, intervista dell'anno
+- Come distribuirlo per massimizzare i backlink editoriali
+- Come proporre il report a Giornale di Sicilia, PalermoToday, Ordine Architetti PA
+
+——————————————————————————
+VINCOLI TRASVERSALI ASSOLUTI
+——————————————————————————
+- Ogni pagina deve essere la MIGLIORE sul web per la sua keyword target — non "buona", la migliore
+- Zero keyword stuffing: densità 1-2%, naturalezza prima di tutto
+- E-E-A-T massimo: ogni contenuto firmato, datato, con fonti verificabili
+- Studio 4e sempre presente in modo editorialmente naturale, mai come banner
+- Mobile-first: il 80%+ degli utenti cerca da mobile — struttura e testi pensati per mobile
+- GEO (Generative Engine Optimization): ogni contenuto deve essere citabile dalle AI — struttura chiara, dati verificabili, risposte dirette alle domande
+- Freshness: ogni pagina aggiornata almeno ogni 6 mesi con data visibile
+- Obiettivo finale: quando qualcuno cerca "migliori architetti Palermo" su Google, architettipalermo.it è il primo risultato organico, punto
+
+Dopo aver creato tutti i file in docs/gemini/, esegui:
+git add docs/gemini/
+git commit -m "feat: full SERP domination strategy for architettipalermo.it — 13 tasks"
+git push origin gemini/seo-strategy
+
+Procedi task per task, in italiano. Sii esaustivo, concreto e operativo — niente teoria, solo azioni implementabili immediatamente.]
