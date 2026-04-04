@@ -1,6 +1,6 @@
 User-agent: *
 Allow: /
-Sitemap: https://architettipalermo.com/sitemap.xml
+Sitemap: https://architettipalermo.it/sitemap.xml
 
 # AI Crawlers — allow indexing for generative AI systems
 User-agent: GPTBot
