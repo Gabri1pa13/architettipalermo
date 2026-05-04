@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Core Architecture Silos (Italian) -->
-  <url><loc>https://architettipalermo.it/</loc><lastmod>2026-04-04</lastmod><priority>1.0</priority></url>
-  <url><loc>https://architettipalermo.it/ristrutturazione/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
-  <url><loc>https://architettipalermo.it/interni/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
-  <url><loc>https://architettipalermo.it/restauro/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
-  <url><loc>https://architettipalermo.it/pratiche-edilizie/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
+  <url><loc>https://architettipalermo.com/</loc><lastmod>2026-04-04</lastmod><priority>1.0</priority></url>
+  <url><loc>https://architettipalermo.com/ristrutturazione/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
+  <url><loc>https://architettipalermo.com/interni/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
+  <url><loc>https://architettipalermo.com/restauro/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
+  <url><loc>https://architettipalermo.com/pratiche-edilizie/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
 
   <!-- Geographic Silos -->
-  <url><loc>https://architettipalermo.it/palermo-centro/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://architettipalermo.it/mondello/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://architettipalermo.it/bagheria/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/palermo-centro/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/mondello/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/bagheria/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
 
   <!-- Authority Hubs -->
-  <url><loc>https://architettipalermo.it/costi/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
-  <url><loc>https://architettipalermo.it/glossario/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://architettipalermo.it/osservatorio/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://architettipalermo.it/studio-di-riferimento/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
+  <url><loc>https://architettipalermo.com/costi/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
+  <url><loc>https://architettipalermo.com/glossario/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/osservatorio/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/studio-di-riferimento/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
 
   <!-- English Section (International) -->
-  <url><loc>https://architettipalermo.it/en/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
-  <url><loc>https://architettipalermo.it/en/best-architects-palermo/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
-  <url><loc>https://architettipalermo.it/en/renovation-palermo/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/en/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
+  <url><loc>https://architettipalermo.com/en/best-architects-palermo/</loc><lastmod>2026-04-04</lastmod><priority>0.9</priority></url>
+  <url><loc>https://architettipalermo.com/en/renovation-palermo/</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
 
   <!-- Standard Pages -->
-  <url><loc>https://architettipalermo.it/servizi.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://architettipalermo.it/contatti.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://architettipalermo.it/blog.html</loc><lastmod>2026-04-04</lastmod><priority>0.7</priority></url>
+  <url><loc>https://architettipalermo.com/servizi.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/contatti.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/blog.html</loc><lastmod>2026-04-04</lastmod><priority>0.7</priority></url>
 
   <!-- Main Blog Posts -->
-  <url><loc>https://architettipalermo.it/blog/migliori-architetti-palermo.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://architettipalermo.it/blog/quanto-costa-architetto-palermo.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
-  <url><loc>https://architettipalermo.it/blog/ristrutturazione-appartamento-palermo.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/blog/migliori-architetti-palermo.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/blog/quanto-costa-architetto-palermo.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
+  <url><loc>https://architettipalermo.com/blog/ristrutturazione-appartamento-palermo.html</loc><lastmod>2026-04-04</lastmod><priority>0.8</priority></url>
 </urlset>
